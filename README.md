@@ -1,6 +1,6 @@
 # Data_Crunch_172
 
-readme_harveston = """
+
 # The Future of Harveston - Predicting Nature's Shifts  
 _Data Crunch by CodeJam, CSE UOM_
 
